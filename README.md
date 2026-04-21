@@ -7,8 +7,8 @@ With this tool you can use a control panel to add and change your own lower thir
 For communication between control panel and browser layer it use BroadcastChannel API.
 
 ## How To Use.
-1. Set OBS Custom Dock [Control Panel](https://dhamarputra.github.io/Lower-Third-OBS-MOD/control-panel.html).
-2. Add Browser Source [Browser Source](https://dhamarputra.github.io/Lower-Third-OBS-MOD/browser-source.html).
+1. Set OBS Custom Dock [Control Panel](https://dhamarputra.github.io/Lower-Third-OBS-MOD/lower thirds/control-panel.html).
+2. Add Browser Source [Browser Source](https://dhamarputra.github.io/Lower-Third-OBS-MOD/lower thirds/browser-source.html).
 
 ## Donations.
 

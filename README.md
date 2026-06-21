@@ -12,7 +12,7 @@ For communication between control panel and browser layer it use BroadcastChanne
 
 ## Donations.
 
-If you like the extension and you want to support the development - please consider to donate by [QRIS](https://fcg.isc-webdev.my.id/image/qris/qris.jpg). Any donations are greatly appreciated.
+If you like the extension and you want to support the development - please consider to donate by [QRIS](https://github.com/DhamarPutra/db_image/blob/main/support.jpeg?raw=true). Any donations are greatly appreciated.
 
 ## License.
 
